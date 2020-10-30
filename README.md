@@ -44,6 +44,9 @@
   <p align="center">
     This project's is about creating the website for the Boulder Bike Race in Colorado
     <br />
+    <a href="https://github.com/krallnyx/BoulderBikeTourAPI"><strong>This is the FrontEnd only, the BackEnd is in this repo, in Ruby</strong></a>
+    <br />
+    <br />
     <a href="https://github.com/krallnyx/BoulderBikeTour"><strong>Explore the docs »</strong></a>
     <br />
     <br />
