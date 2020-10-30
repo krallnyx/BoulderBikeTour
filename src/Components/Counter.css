@@ -1,0 +1,31 @@
+/* Container holding the image and the text */
+.container-counter {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  /* Centered text */
+.centered-counter {
+    position: absolute;
+    top: 75%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+@media (min-width: 1000px) {
+    .text-shrink {
+        font-size: 300%;
+    }
+}
+@media (min-width:437px) and (max-width:999px) {
+    .text-shrink {
+        font-size: 150%;
+    }
+}
+
+@media (max-width: 436px) {
+    .text-shrink {
+        font-size: 75%;
+    }
+}

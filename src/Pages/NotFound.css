@@ -1,0 +1,18 @@
+/* Container holding the image and the text */
+.container-notfound {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  /* Centered text */
+.centered-notfound {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+.text-shadow {
+    text-shadow: 2px 2px #000000;
+}
