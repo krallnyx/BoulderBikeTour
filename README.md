@@ -7,7 +7,7 @@
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** krallnyx, BoulderBikeTour, krallnyx, krallplisken@hotmail.com
+*** krallnyx (for twitter and Github), BoulderBikeTour (project repo's name), krallplisken@hotmail.com (self explanatory...), arnaud-jeanroch (for Linkedin)
 -->
 
 
@@ -248,5 +248,5 @@ Project Link: [https://github.com/krallnyx/BoulderBikeTour](https://github.com/k
 [license-shield]: https://img.shields.io/github/license/krallnyx/repo.svg?style=flat-square
 [license-url]: https://github.com/krallnyx/repo/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/krallnyx
+[linkedin-url]: https://linkedin.com/in/arnaud-jeanroch
 [product-screenshot]: images/screenshot.png
